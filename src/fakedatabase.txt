@@ -1,0 +1,3 @@
+accounts
+{"account_id":300,"balance":15}
+{"account_id":100,"balance":0}
